@@ -2,29 +2,7 @@
 
 Welcome to my Data Scientist portfolio! Below are some of the key projects I've worked on:
 
-## 📊 **Customer Segmentation Project**
-   - **Description:** Applied NLP, K-means clustering, and rule-based classification techniques to identify high-value customer segments.
-   - **Tools/Technologies:** NLP, K-means, Rule-based Classification, Python, Power BI
-   - **Key Achievements:**
-     - 🎯 Segmented customers for targeted marketing strategies.
-     - 📈 Delivered actionable insights via Power BI dashboards.
-   - [🔗 View Project](#)  *(Replace with actual project link)*
-
-## 🔄 **ETL Pipeline Design & Implementation**
-   - **Description:** Designed and implemented ETL pipelines for robust data engineering solutions.
-   - **Tools/Technologies:** Azure (Data Factory, Databricks, Synapse), Spark
-   - **Key Achievements:**
-     - 🧹 Streamlined data processing workflows for various business needs.
-   - [🔗 View Project](#)  *(Replace with actual project link)*
-
-   - ## 🔧 Tools & Technologies
-
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Azure](https://img.shields.io/badge/Azure-blue)
-![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-yellow)
-
-# 🗂️ Project Overview
+## 🗂️ Project Overview
 
 | Project Name               | Description                                   | Tools/Technologies         | Key Achievements                                |
 |----------------------------|-----------------------------------------------|----------------------------|------------------------------------------------|
@@ -38,15 +16,51 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
 ![Azure](https://img.shields.io/badge/Azure-blue)
 ![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)
 
-## 💬 Testimonials
+## 🔥 Project Highlights
 
-> "An insightful and valuable contribution to our team. Very skilled at analyzing data and delivering clear insights."  
-> — [Client Name], Company
+<details>
+  <summary>Customer Segmentation Project</summary>
+
+  **Description:** Applied NLP, K-means clustering, and rule-based classification to identify customer segments.  
+  **Technologies:** NLP, K-means, Python, Power BI
+
+  - **Achievements:**  
+    - Identified key customer segments for targeted marketing.  
+    - Created dashboards to visualize insights.
+  
+</details>
+
+<details>
+  <summary>AI-Driven Data Strategy</summary>
+
+  **Description:** Developed AI-powered data strategies for clients in the energy and banking sectors.  
+  **Technologies:** Azure, Power BI, Python
+
+  - **Achievements:**  
+    - Helped improve decision-making for energy companies.  
+    - Contributed to financial institutions' AI adoption strategy.
+  
+</details>
+
+<details>
+  <summary>Data Governance & Purview Training</summary>
+
+  **Description:** Led data governance initiatives and provided Microsoft Purview training for FMCG clients.  
+  **Technologies:** Purview, Azure
+
+  - **Achievements:**  
+    - Enhanced data quality standards across departments.  
+    - Streamlined data compliance processes for clients.
+  
+</details>
+
+---
 
 ## 🌐 Learn More About My Work
 
 - [Machine Learning with Python](https://yourlink.com)  
 - [How to Build Data Pipelines](https://anotherlink.com)
+
 ---
 
 💬 Feel free to explore my projects, and don’t hesitate to reach out for collaboration or inquiries!
