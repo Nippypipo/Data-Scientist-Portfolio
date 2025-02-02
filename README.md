@@ -24,10 +24,10 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
 ## 📊  Other Projects
 
 <details>
-  <summary>Finding Customer characteristics</summary>
+  <summary>Finding Customer characteristics in EdTech Startup</summary>
 
   **Description:** Applied NLP, K-means clustering, and rule-based classification to identify customer segments.  
-  **Technologies:** NLP, K-means, Python, Power BI
+  **Technologies:** NLP, K-means, Python, Google Sheet
 
   - **Achievements:**  
     - Identified key customer segments for targeted marketing.  
