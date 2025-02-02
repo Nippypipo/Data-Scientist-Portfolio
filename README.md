@@ -14,7 +14,9 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
    - **Tools/Technologies:** CRF, Tableau, Thai NER v2.2, Data Analysis
    - **Key Achievements:**
      - 🎯 Explored the model’s predictions to detect any biases in address extraction.
-     - 📊 Created a Tableau dashboard to visualize the analysis and provide insights into the model’s performance.
+     - 🏙️ The model predicted locations (LOC) more accurately in Bangkok and surrounding provinces, with Northern Thailand showing the highest accuracy.
+     - ❌ Misclassified provinces were often tagged as "ADDR" instead of other tags.  
+     - 📊 Provinces with lower frequency in the dataset had poorer prediction accuracy. Misclassified locations were often associated with "URL" labels, while correct ones had "B-LOCATION" or "I-LOCATION."
    - 📚 **Mini-project**: Information Visualization course
    - [🔗 View Project](https://public.tableau.com/app/profile/nipun.angkavichai3120/viz/InfoVisModelInterpretation2/2_1)
 
@@ -77,7 +79,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
 
   **Description:** Designed and implemented a database system to improve translation service efficiency at Chaloem Phra Kiat Translation and Interpretation Center by storing key information like translators, clients, and jobs.  
   **Technologies:** PHP, SQL, Data Flow Diagrams, ER Diagrams
-
+  - 📚 **Project**: Database System course
   - **Achievements:**  
     - Conducted user research and defined system requirements using design thinking.  
     - Analyzed and redesigned system using data flow diagrams and ER diagrams.  
