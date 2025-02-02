@@ -61,7 +61,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
 ## 📊  Other Projects
 
 <details>
-  <summary>Finding Customer characteristics in EdTech Startup</summary>
+  <summary>Find Customer characteristics in EdTech Startup</summary>
 
   **Description:** Applied NLP, K-means clustering, and rule-based classification to identify customer segments.  
   **Technologies:** NLP, K-means, Python, Google Sheet
@@ -73,7 +73,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
 </details>
 
 <details>
-  <summary>Translation Service System</summary>
+  <summary>Design Translation Service System</summary>
 
   **Description:** Designed and implemented a database system to improve translation service efficiency at Chaloem Phra Kiat Translation and Interpretation Center by storing key information like translators, clients, and jobs.  
   **Technologies:** PHP, SQL, Data Flow Diagrams, ER Diagrams
