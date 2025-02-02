@@ -37,7 +37,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
      - Development of a machine learning classifier for media framing in fraud scandals.
      - Enabled multilingual analysis for varying cases across linguistic contexts.
    - 📚 **Senior-project**: LangTech
-   - [🔗 View Project](https://yourprojectlink.com)
+   - [🔗 View Project](https://github.com/Nippypipo/Media-Framing-Analysis-in-Fraud-Scandals)
 
 
 ## 🔄 **ETL Pipeline Design & Implementation**
