@@ -25,6 +25,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
    - **Key Achievements:**
      - 🎯 Developed a context generation method that enhanced the accuracy of Thai QA systems.
      - 📈 Outperformed the few-shot learning approach, showcasing the potential of LLMs in Thai language processing.
+   - 📚 **Project**: NLP System course.
    - [🔗 View Project](https://github.com/Nippypipo/CGAP_TH_QA/tree/main)
 
 ## 🔄 **Media Framing Classifier for Fraud Scandals**
@@ -33,6 +34,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
    - **Key Achievements:**
      - Development of a machine learning classifier for media framing in fraud scandals.
      - Enabled multilingual analysis for varying cases across linguistic contexts.
+   - 📚 **Senior-project**: LangTech.
    - [🔗 View Project](https://yourprojectlink.com)
 
 
@@ -41,6 +43,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
    - **Tools/Technologies:** Azure (Data Factory, Databricks, Synapse), Spark
    - **Key Achievements:**
      - 🧹 Develop a service template for streamlining data processing workflows for various business needs.
+   - 📚 **Internship**: Data Engineer Intern Project
    - [🔗 View Project](https://medium.com/@nipunaungkawichai_54820/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-etl-pipeline-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-microsoft-azure-end-to-end-data-engineer-project-554c3c90914c)
 
 ## 🔧 Tools & Technologies
