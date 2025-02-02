@@ -39,10 +39,9 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
 
 ---
 
-## 🌐 Learn More About My Work
+## 🌐 Learn More About Me
 
-- [Machine Learning with Python](https://yourlink.com)  
-- [How to Build Data Pipelines](https://anotherlink.com)
+- [LinkedIn Profile]([https://yourlink.com](https://www.linkedin.com/in/nipun-angkavichai-935455253/))  
 
 ---
 
