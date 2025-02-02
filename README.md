@@ -1,6 +1,6 @@
 # Data Science Portfolio 👨‍💻
 
-Welcome to my Data Scientist portfolio! Below are some of the key projects I've worked on:
+Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some of the key projects I've worked on:
 
 ## 🔄 **Complaint Classifier Model for Traffy Fondue**
    - **Description:** Developed a complaint classifier model for the Traffy Fondue platform, redesigned the dataset, and created an annotation system.
