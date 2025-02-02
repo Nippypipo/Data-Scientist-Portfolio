@@ -63,7 +63,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
 ## 📊  Other Projects
 
 <details>
-  <summary>Find Customer characteristics in EdTech Startup</summary>
+  <summary>Find Customer Characteristics in EdTech Startup</summary>
 
   **Description:** Applied NLP, K-means clustering, and rule-based classification to identify customer segments. 
   
