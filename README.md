@@ -2,6 +2,13 @@
 
 Welcome to my Data Scientist portfolio! Below are some of the key projects I've worked on:
 
+## 🔄 **Complaint Classifier Model for Traffy Fondue**
+   - **Description:** Developed a complaint classifier model for the Traffy Fondue platform, redesigned the dataset, and created an annotation system.
+   - **Tools/Technologies:** Fine-tuning, NLP, Python, Keras
+   - **Key Achievements:**
+     - 🎯 Achieved 84% accuracy, a 20.9% improvement over logistic regression (69.5%).
+   - [🔗 View Project](https://yourprojectlink.com)
+
 ## 🔄 **ETL Pipeline Design & Implementation**
    - **Description:** Designed and implemented ETL pipelines for robust data engineering solutions.
    - **Tools/Technologies:** Azure (Data Factory, Databricks, Synapse), Spark
