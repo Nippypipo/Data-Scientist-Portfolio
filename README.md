@@ -2,13 +2,12 @@
 
 Welcome to my Data Scientist portfolio! Below are some of the key projects I've worked on:
 
-## 🗂️ Project Overview
-
-| Project Name               | Description                                   | Tools/Technologies         | Key Achievements                                |
-|----------------------------|-----------------------------------------------|----------------------------|------------------------------------------------|
-| Customer Segmentation       | Applied NLP and K-means for segmentation.    | NLP, K-means, Python, Power BI | Segmented high-value customers for targeted strategies. |
-| AI-Driven Data Strategy     | Developed data strategies for AI-driven proposals. | Azure, Power BI, Python   | Optimized strategies for energy and banking sectors. |
-| Data Governance & Purview   | Delivered Purview training and led governance. | Purview, Azure             | Enhanced data quality and compliance.           |
+## 🔄 **ETL Pipeline Design & Implementation**
+   - **Description:** Designed and implemented ETL pipelines for robust data engineering solutions.
+   - **Tools/Technologies:** Azure (Data Factory, Databricks, Synapse), Spark
+   - **Key Achievements:**
+     - 🧹 Streamlined data processing workflows for various business needs.
+   - [🔗 View Project](#)  *(Replace with actual project link)*
 
 ## 🔧 Tools & Technologies
 
