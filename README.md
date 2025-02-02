@@ -9,6 +9,15 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
      - 🎯 Achieved 84% accuracy, a 20.9% improvement over logistic regression (69.5%).
    - [🔗 View Project](https://yourprojectlink.com)
 
+## 🔄 **Empowering Thai Question Answering: Leveraging Context Generation with LLMs**
+   - **Description:** Proposed a context generation method for Thai Question Answering (QA) using LLMs, significantly outperforming few-shot learning approaches.
+   - **Tools/Technologies:** LLM, Prompt Engineering
+   - **Key Achievements:**
+     - 🎯 Developed a context generation method that enhanced the accuracy of Thai QA systems.
+     - 📈 Outperformed the few-shot learning approach, showcasing the potential of LLMs in Thai language processing.
+   - [🔗 View Project](https://yourprojectlink.com)
+
+
 ## 🔄 **ETL Pipeline Design & Implementation**
    - **Description:** Designed and implemented ETL pipelines for robust data engineering solutions.
    - **Tools/Technologies:** Azure (Data Factory, Databricks, Synapse), Spark
