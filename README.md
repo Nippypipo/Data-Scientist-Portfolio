@@ -15,7 +15,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
    - **Key Achievements:**
      - 🎯 Explored the model’s predictions to detect any biases in address extraction.
      - 📊 Created a Tableau dashboard to visualize the analysis and provide insights into the model’s performance.
-   - 📚 **Mini-project**: Information Visualization course.
+   - 📚 **Mini-project**: Information Visualization course
    - [🔗 View Project](https://public.tableau.com/app/profile/nipun.angkavichai3120/viz/InfoVisModelInterpretation2/2_1)
 
 
@@ -25,7 +25,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
    - **Key Achievements:**
      - 🎯 Developed a context generation method that enhanced the accuracy of Thai QA systems.
      - 📈 Outperformed the few-shot learning approach, showcasing the potential of LLMs in Thai language processing.
-   - 📚 **Project**: NLP System course.
+   - 📚 **Project**: NLP System course
    - [🔗 View Project](https://github.com/Nippypipo/CGAP_TH_QA/tree/main)
 
 ## 🔄 **Media Framing Classifier for Fraud Scandals**
@@ -34,7 +34,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
    - **Key Achievements:**
      - Development of a machine learning classifier for media framing in fraud scandals.
      - Enabled multilingual analysis for varying cases across linguistic contexts.
-   - 📚 **Senior-project**: LangTech.
+   - 📚 **Senior-project**: LangTech
    - [🔗 View Project](https://yourprojectlink.com)
 
 
