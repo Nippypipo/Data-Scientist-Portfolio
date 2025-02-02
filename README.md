@@ -26,7 +26,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
      - 🎯 Explored the model’s predictions to detect any biases in address extraction.
      - 📊 Created a Tableau dashboard to visualize the analysis and provide insights into the model’s performance.
    - 📚 **Mini-project**: Information Visualization course.
-   - [🔗 View Project](https://yourprojectlink.com)
+   - [🔗 View Project](https://public.tableau.com/app/profile/nipun.angkavichai3120/viz/InfoVisModelInterpretation/sheet3?publish=yes)
 
 
 ## 🔄 **ETL Pipeline Design & Implementation**
