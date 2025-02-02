@@ -24,7 +24,7 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
 ## 📊  Other Projects
 
 <details>
-  <summary>Customer Segmentation Project</summary>
+  <summary>Finding Customer characteristics</summary>
 
   **Description:** Applied NLP, K-means clustering, and rule-based classification to identify customer segments.  
   **Technologies:** NLP, K-means, Python, Power BI
