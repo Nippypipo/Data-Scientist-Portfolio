@@ -27,7 +27,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
      - 📈 Outperformed the few-shot learning approach, showcasing the potential of LLMs in Thai language processing.
    - [🔗 View Project](https://github.com/Nippypipo/CGAP_TH_QA/tree/main)
 
-## 📰 **Media Framing Classifier for Fraud Scandals**
+## 🔄 **Media Framing Classifier for Fraud Scandals**
    - **Description:** A project aimed at developing a machine learning classifier to automate media framing analysis, building on prior research in media framing related to Wirecard’s fraud scandal. This project focuses on how media shapes public perception through specific rhetorical techniques and stylistic devices.
    - **Tools/Technologies:** Machine Learning, Natural Language Processing (NLP), Multilingual Models
    - **Key Achievements:**
