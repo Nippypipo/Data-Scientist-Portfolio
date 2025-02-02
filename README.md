@@ -92,6 +92,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
   <summary>Decoding the Unique Characteristics of A24 Studio's Movie Production</summary>
 
   **Description:** Analyzed A24 studio's movie production patterns to uncover trends and unique characteristics, particularly its appeal to GenZ audiences.
+  
   **Technologies:** Parsehub, Google Sheets, Voyant Tools, Taguette, Flourish
 
   - **Achievements:**  
