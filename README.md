@@ -91,7 +91,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
 </details>
 
 <details>
-  <summary>Decoding the Unique Characteristics of A24 Studio's Movie Production</summary>
+  <summary>Decode the Unique Characteristics of A24 Studio's Movie Production</summary>
 
   **Description:** Analyzed A24 studio's movie production patterns to uncover trends and unique characteristics, particularly its appeal to GenZ audiences.
   
