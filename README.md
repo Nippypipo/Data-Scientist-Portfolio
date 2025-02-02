@@ -65,7 +65,8 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
 <details>
   <summary>Find Customer characteristics in EdTech Startup</summary>
 
-  **Description:** Applied NLP, K-means clustering, and rule-based classification to identify customer segments.  
+  **Description:** Applied NLP, K-means clustering, and rule-based classification to identify customer segments. 
+  
   **Technologies:** NLP, K-means, Python, Google Sheet
   - 📚 **Internship**: Data Analyst Intern Project 
   - **Achievements:**  
@@ -78,6 +79,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
   <summary>Design Translation Service System</summary>
 
   **Description:** Designed and implemented a database system to improve translation service efficiency at Chaloem Phra Kiat Translation and Interpretation Center by storing key information like translators, clients, and jobs.  
+  
   **Technologies:** PHP, SQL, Data Flow Diagrams, ER Diagrams
   - 📚 **Project**: Database System course
   - **Achievements:**  
@@ -92,6 +94,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
   <summary>Decoding the Unique Characteristics of A24 Studio's Movie Production</summary>
 
   **Description:** Analyzed A24 studio's movie production patterns to uncover trends and unique characteristics, particularly its appeal to GenZ audiences.
+  
   **Technologies:** Parsehub, Google Sheets, Voyant Tools, Taguette, Flourish
 
   - **Achievements:**  
