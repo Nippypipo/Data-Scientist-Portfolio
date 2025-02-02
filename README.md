@@ -1,4 +1,4 @@
-# Data Scientist Portfolio 👨‍💻
+# Data Science Portfolio 👨‍💻
 
 Welcome to my Data Scientist portfolio! Below are some of the key projects I've worked on:
 
@@ -29,29 +29,7 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
   
 </details>
 
-<details>
-  <summary>AI-Driven Data Strategy</summary>
 
-  **Description:** Developed AI-powered data strategies for clients in the energy and banking sectors.  
-  **Technologies:** Azure, Power BI, Python
-
-  - **Achievements:**  
-    - Helped improve decision-making for energy companies.  
-    - Contributed to financial institutions' AI adoption strategy.
-  
-</details>
-
-<details>
-  <summary>Data Governance & Purview Training</summary>
-
-  **Description:** Led data governance initiatives and provided Microsoft Purview training for FMCG clients.  
-  **Technologies:** Purview, Azure
-
-  - **Achievements:**  
-    - Enhanced data quality standards across departments.  
-    - Streamlined data compliance processes for clients.
-  
-</details>
 
 ---
 
