@@ -7,7 +7,7 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
    - **Tools/Technologies:** Fine-tuning, NLP, Python, Keras
    - **Key Achievements:**
      - 🎯 Achieved 84% accuracy, a 20.9% improvement over logistic regression (69.5%).
-   - [🔗 View Project](https://yourprojectlink.com)
+   - [🔗 View Project](https://github.com/nlp-chula/traffy-predict)
 
 ## 🔄 **Empowering Thai Question Answering: Leveraging Context Generation with LLMs**
    - **Description:** Proposed a context generation method for Thai Question Answering (QA) using LLMs, significantly outperforming few-shot learning approaches.
@@ -15,7 +15,7 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
    - **Key Achievements:**
      - 🎯 Developed a context generation method that enhanced the accuracy of Thai QA systems.
      - 📈 Outperformed the few-shot learning approach, showcasing the potential of LLMs in Thai language processing.
-   - [🔗 View Project](https://yourprojectlink.com)
+   - [🔗 View Project](https://github.com/Nippypipo/CGAP_TH_QA/tree/main)
 
 
 ## 🔄 **ETL Pipeline Design & Implementation**
