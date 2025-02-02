@@ -7,7 +7,7 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
    - **Tools/Technologies:** Azure (Data Factory, Databricks, Synapse), Spark
    - **Key Achievements:**
      - 🧹 Streamlined data processing workflows for various business needs.
-   - [🔗 View Project](#)  *(Replace with actual project link)*
+   - [🔗 View Project](https://medium.com/@nipunaungkawichai_54820/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-etl-pipeline-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-microsoft-azure-end-to-end-data-engineer-project-554c3c90914c)  
 
 ## 🔧 Tools & Technologies
 
@@ -31,7 +31,7 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
 
   - **Achievements:**  
     - Identified key customer segments for targeted marketing.  
-    - Created dashboards to visualize insights.
+    - Created various charts to visualize insights.
   
 </details>
 
