@@ -9,6 +9,15 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
      - 🎯 Achieved 84% accuracy, a 20.9% improvement over logistic regression (69.5%).
    - [🔗 View Project](https://github.com/nlp-chula/traffy-predict)
 
+## 🔄 **Understanding CRF Model for Address Extraction**
+   - **Description:** Analyzed the CRF model for address extraction using predictions from the Thai NER v2.2 dataset to understand potential biases. Designed a visual analytics system using Tableau.
+   - **Tools/Technologies:** CRF, Tableau, Thai NER v2.2, Data Analysis
+   - **Key Achievements:**
+     - 🎯 Explored the model’s predictions to detect any biases in address extraction.
+     - 📊 Created a Tableau dashboard to visualize the analysis and provide insights into the model’s performance.
+   - 📚 **Mini-project**: Information Visualization course.
+   - [🔗 View Project](https://public.tableau.com/app/profile/nipun.angkavichai3120/viz/InfoVisModelInterpretation2/2_1)
+
 
 ## 🔄 **Empowering Thai Question Answering: Leveraging Context Generation with LLMs**
    - **Description:** Proposed a context generation method for Thai Question Answering (QA) using LLMs, significantly outperforming few-shot learning approaches.
@@ -17,16 +26,6 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
      - 🎯 Developed a context generation method that enhanced the accuracy of Thai QA systems.
      - 📈 Outperformed the few-shot learning approach, showcasing the potential of LLMs in Thai language processing.
    - [🔗 View Project](https://github.com/Nippypipo/CGAP_TH_QA/tree/main)
-
-
-## 🔄 **Understanding CRF Model for Address Extraction**
-   - **Description:** Analyzed the CRF model for address extraction using predictions from the Thai NER v2.2 dataset to understand potential biases. Designed a visual analytics system using Tableau.
-   - **Tools/Technologies:** CRF, Tableau, Thai NER v2.2, Data Analysis
-   - **Key Achievements:**
-     - 🎯 Explored the model’s predictions to detect any biases in address extraction.
-     - 📊 Created a Tableau dashboard to visualize the analysis and provide insights into the model’s performance.
-   - 📚 **Mini-project**: Information Visualization course.
-   - [🔗 View Project](https://public.tableau.com/app/profile/nipun.angkavichai3120/viz/InfoVisModelInterpretation/sheet3?publish=yes)
 
 
 ## 🔄 **ETL Pipeline Design & Implementation**
