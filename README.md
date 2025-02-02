@@ -13,10 +13,10 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
    - **Description:** Analyzed the CRF model for address extraction using predictions from the Thai NER v2.2 dataset to understand potential biases. Designed a visual analytics system using Tableau.
    - **Tools/Technologies:** CRF, Tableau, Thai NER v2.2, Data Analysis
    - **Key Achievements:**
-     - 🎯 Explored the model’s predictions to detect any biases in address extraction.
-     - 🏙️ The model predicted locations (LOC) more accurately in Bangkok and surrounding provinces, with Northern Thailand showing the highest accuracy.
-     - ❌ Misclassified provinces were often tagged as "ADDR" instead of other tags.  
-     - 📊 Provinces with lower frequency in the dataset had poorer prediction accuracy. Misclassified locations were often associated with "URL" labels, while correct ones had "B-LOCATION" or "I-LOCATION."
+     - 🏙️ The model predicted locations (LOC) more accurately in Bangkok and surrounding provinces.
+     - 📊 Provinces with lower frequency in the dataset had poorer prediction accuracy. 
+     - ❌ Misclassified provinces were often tagged as "ADDR" instead of other tags.
+     - ❌ Misclassified locations were often associated with "URL" labels, while correct ones had "B-LOCATION" or "I-LOCATION."
    - 📚 **Mini-project**: Information Visualization course
    - [🔗 View Project](https://public.tableau.com/app/profile/nipun.angkavichai3120/viz/InfoVisModelInterpretation2/2_1)
 
