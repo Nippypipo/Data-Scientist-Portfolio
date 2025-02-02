@@ -9,6 +9,7 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
      - 🎯 Achieved 84% accuracy, a 20.9% improvement over logistic regression (69.5%).
    - [🔗 View Project](https://github.com/nlp-chula/traffy-predict)
 
+
 ## 🔄 **Empowering Thai Question Answering: Leveraging Context Generation with LLMs**
    - **Description:** Proposed a context generation method for Thai Question Answering (QA) using LLMs, significantly outperforming few-shot learning approaches.
    - **Tools/Technologies:** LLM, Prompt Engineering
@@ -40,7 +41,7 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
 ## 📊  Other Projects
 
 <details>
-  <summary>Finding Customer characteristics in EdTech Startup</summary>
+  <summary>Finding Customer characteristics in EdTech Startup (Data Analyst Internship Project)</summary>
 
   **Description:** Applied NLP, K-means clustering, and rule-based classification to identify customer segments.  
   **Technologies:** NLP, K-means, Python, Google Sheet
