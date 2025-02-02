@@ -10,22 +10,6 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
      - 📈 Delivered actionable insights via Power BI dashboards.
    - [🔗 View Project](#)  *(Replace with actual project link)*
 
-## 💡 **AI-Driven Data Strategy Development**
-   - **Description:** Developed data strategies for AI-driven proposals in energy and banking sectors.
-   - **Tools/Technologies:** Azure, Power BI, Python
-   - **Key Achievements:**
-     - 🚀 Designed AI-driven data solutions optimizing business strategies.
-     - 🛠️ Promoted data quality and governance practices.
-   - [🔗 View Project](#)  *(Replace with actual project link)*
-
-## 🛡️ **Data Governance & Purview Training**
-   - **Description:** Led data governance initiatives and delivered Microsoft Purview training for FMCG clients.
-   - **Tools/Technologies:** Microsoft Purview, Azure
-   - **Key Achievements:**
-     - ✅ Ensured data quality and compliance across business processes.
-     - 📚 Empowered stakeholders with hands-on training.
-   - [🔗 View Project](#)  *(Replace with actual project link)*
-
 ## 🔄 **ETL Pipeline Design & Implementation**
    - **Description:** Designed and implemented ETL pipelines for robust data engineering solutions.
    - **Tools/Technologies:** Azure (Data Factory, Databricks, Synapse), Spark
