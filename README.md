@@ -14,6 +14,12 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Azure](https://img.shields.io/badge/Azure-blue)
 ![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)
+![matplotlib](https://img.shields.io/badge/matplotlib-3.4-blue)
+![seaborn](https://img.shields.io/badge/seaborn-0.11.2-green)
+![Keras](https://img.shields.io/badge/Keras-2.4.3-red)
+![Langchain](https://img.shields.io/badge/Langchain-0.0.72-purple)
+
 
 ## 📊  Other Projects
 
