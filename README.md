@@ -88,6 +88,19 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
   
 </details>
 
+<details>
+  <summary>Decoding the Unique Characteristics of A24 Studio's Movie Production</summary>
+
+  **Description:** Analyzed A24 studio's movie production patterns to uncover trends and unique characteristics, particularly its appeal to GenZ audiences.
+  **Technologies:** Parsehub, Google Sheets, Voyant Tools, Taguette, Flourish
+
+  - **Achievements:**  
+    - 🎬 Analyzed key factors like budget, box office performance, genres, themes, and audience feedback.  
+    - 📊 Utilized quantitative data analysis (Voyant Tools) and qualitative analysis (Taguette) to identify production trends.  
+    - 📈 Visualized data insights using Flourish to present key findings on A24's success and its connection to GenZ's preferences.  
+  - [🔗 View Project](https://drive.google.com/file/d/1KL9HP5CeFio6N8IQmITxKtWzD_oUUH-M/view)
+</details>
+
 
 
 
