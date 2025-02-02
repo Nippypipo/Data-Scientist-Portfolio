@@ -15,7 +15,7 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
 ![Azure](https://img.shields.io/badge/Azure-blue)
 ![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)
 
-## 🔥 Project Highlights
+## 📊  Other Projects
 
 <details>
   <summary>Customer Segmentation Project</summary>
