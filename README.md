@@ -41,7 +41,7 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
 
 ## 🌐 Learn More About Me
 
-- [LinkedIn Profile]([https://yourlink.com](https://www.linkedin.com/in/nipun-angkavichai-935455253/)  
+- [LinkedIn Profile]([[https://yourlink.com](https://www.linkedin.com/in/nipun-angkavichai-935455253/)]) 
 
 ---
 
