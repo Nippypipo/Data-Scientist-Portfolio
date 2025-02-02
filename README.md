@@ -17,6 +17,14 @@ Welcome to my Data Scientist portfolio! Below are some of the key projects I've 
      - 🧹 Streamlined data processing workflows for various business needs.
    - [🔗 View Project](#)  *(Replace with actual project link)*
 
+   - ## 🔧 Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Azure](https://img.shields.io/badge/Azure-blue)
+![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-yellow)
+
+
 ---
 
 💬 Feel free to explore my projects, and don’t hesitate to reach out for collaboration or inquiries!
