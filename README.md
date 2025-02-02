@@ -4,7 +4,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
 
 ## 🔄 **Complaint Classifier Model for Traffy Fondue**
    - **Description:** Developed a complaint classifier model for the Traffy Fondue platform, redesigned the dataset, and created an annotation system.
-   - **Tools/Technologies:** Fine-tuning, NLP, Python, Keras
+   - **Tools/Technologies:** Fine-tuning, NLP, Python, HuggingFace
    - **Key Achievements:**
      - 🎯 Achieved 84% accuracy, a 20.9% improvement over logistic regression (69.5%).
    - [🔗 View Project](https://github.com/nlp-chula/traffy-predict)
