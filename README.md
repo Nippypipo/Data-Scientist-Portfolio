@@ -61,16 +61,31 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
 ## 📊  Other Projects
 
 <details>
-  <summary>Finding Customer characteristics in EdTech Startup (Data Analyst Internship Project)</summary>
+  <summary>Finding Customer characteristics in EdTech Startup</summary>
 
   **Description:** Applied NLP, K-means clustering, and rule-based classification to identify customer segments.  
   **Technologies:** NLP, K-means, Python, Google Sheet
-
+  - 📚 **Internship**: Data Analyst Intern Project 
   - **Achievements:**  
     - Identified key customer segments for targeted marketing.  
     - Created various charts to visualize insights.
   
 </details>
+
+<details>
+  <summary>Translation Service System</summary>
+
+  **Description:** Designed and implemented a database system to improve translation service efficiency at Chaloem Phra Kiat Translation and Interpretation Center by storing key information like translators, clients, and jobs.  
+  **Technologies:** PHP, SQL, Data Flow Diagrams, ER Diagrams
+
+  - **Achievements:**  
+    - Conducted user research and defined system requirements using design thinking.  
+    - Analyzed and redesigned system using data flow diagrams and ER diagrams.  
+    - Built mockup data and developed a PHP/SQL backend to facilitate work assignments and track monthly revenue.
+  - [🔗 View Project](https://github.com/Nippypipo/Translation_Service_System)
+  
+</details>
+
 
 
 
