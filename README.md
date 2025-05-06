@@ -9,7 +9,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
      - 🎯 Achieved 84% accuracy, a 20.9% improvement over logistic regression (69.5%).
    - [🔗 View Project](https://github.com/nlp-chula/traffy-predict)
 
-## 🔄 **Understanding CRF Model for Address Extraction**
+## 🔄 **Visual Analytics for Understanding CRF Model in Address Extraction**
    - **Description:** Analyzed the CRF model for address extraction using predictions from the Thai NER v2.2 dataset to understand potential biases. Designed a visual analytics system using Tableau.
    - **Tools/Technologies:** CRF, Tableau, Thai NER v2.2, Data Analysis
    - **Key Achievements:**
