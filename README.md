@@ -50,8 +50,7 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
 ## 🔧 Tools & Technologies
 
 ### 🧠 Machine Learning & Deep Learning  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)  
-![PyTorch](https://img.shields.io/badge/PyTorch-1.12.1-red)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)   ![PyTorch](https://img.shields.io/badge/PyTorch-1.12.1-red)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8-orange)  
 ![Keras](https://img.shields.io/badge/Keras-2.4.3-red)  
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.5.0-blue)
