@@ -1,6 +1,38 @@
 # Data Science Portfolio 👨‍💻
 
-Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some of the key projects I've worked on:
+Hello, my name is Nipun. Welcome to my Data Scientist portfolio! 
+
+## 🔧 Tools & Technologies
+
+-  **🧠 Machine Learning & Deep Learning ** 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)   ![PyTorch](https://img.shields.io/badge/PyTorch-1.12.1-red)  ![Keras](https://img.shields.io/badge/Keras-2.4.3-red)  ![XGBoost](https://img.shields.io/badge/XGBoost-1.5.0-blue)
+
+-  **📊 Data Visualization & BI  **
+![matplotlib](https://img.shields.io/badge/matplotlib-3.4-blue)  ![seaborn](https://img.shields.io/badge/seaborn-0.11.2-green)  ![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)  
+
+-  **🧹 Data Engineering & ETL  **
+![Azure](https://img.shields.io/badge/Azure-blue)  ![Delta Lake](https://img.shields.io/badge/Delta_Lake-ETL-blue)  ![PySpark](https://img.shields.io/badge/PySpark-ETL-orange)  ![SQL Server](https://img.shields.io/badge/SQL_Server-Data-gray)
+
+-  **🌐 Natural Language Processing & LLM  **
+![Langchain](https://img.shields.io/badge/Langchain-0.0.72-purple)  ![spaCy](https://img.shields.io/badge/spaCy-3.0-lightgrey)   ![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)  ![OpenAI](https://img.shields.io/badge/OpenAI-API-lightblue)
+
+-  🧪 Experimentation & MLOps  
+![Weights & Biases](https://img.shields.io/badge/W&B-Experiment_Tracking-orange)
+
+-  **💻 Programming Languages  **
+![Python](https://img.shields.io/badge/Python-3.9-blue)  ![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)
+
+Below are some of the key projects I've worked on:
+
+## 🔄 **Automated Media Framing Analysis in Corporate Fraud Scandals**
+   - **Description:** A project aimed at developing a machine learning classifier to automate media framing analysis, building on prior research in media framing related to Wirecard’s fraud scandal. This project focuses on how media shapes public perception through specific rhetorical techniques and stylistic devices.
+   - **Tools/Technologies:** Machine Learning, Natural Language Processing (NLP), Multilingual Models
+   - **Key Achievements:**
+     - Development of a machine learning classifier for media framing in fraud scandals.
+     - Enabled multilingual analysis for varying cases across linguistic contexts.
+   - 📚 **Senior-project**: LangTech
+   - [🔗 View Project](https://github.com/Nippypipo/Media-Framing-Analysis-in-Fraud-Scandals)
+   - 
 
 ## 🔄 **Visual Analytics for Understanding CRF Model in Address Extraction**
    - **Description:** Analyzed the CRF model for address extraction using predictions from the Thai NER v2.2 dataset to understand potential biases. Designed a visual analytics system using Tableau.
@@ -23,14 +55,6 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
    - 📚 **Project**: NLP System course
    - [🔗 View Project](https://github.com/Nippypipo/CGAP_TH_QA/tree/main)
 
-## 🔄 **Automated Media Framing Analysis in Corporate Fraud Scandals**
-   - **Description:** A project aimed at developing a machine learning classifier to automate media framing analysis, building on prior research in media framing related to Wirecard’s fraud scandal. This project focuses on how media shapes public perception through specific rhetorical techniques and stylistic devices.
-   - **Tools/Technologies:** Machine Learning, Natural Language Processing (NLP), Multilingual Models
-   - **Key Achievements:**
-     - Development of a machine learning classifier for media framing in fraud scandals.
-     - Enabled multilingual analysis for varying cases across linguistic contexts.
-   - 📚 **Senior-project**: LangTech
-   - [🔗 View Project](https://github.com/Nippypipo/Media-Framing-Analysis-in-Fraud-Scandals)
 
 ## 🔄 **Complaint Classifier Model for Traffy Fondue**
    - **Description:** Developed a complaint classifier model for the Traffy Fondue platform, redesigned the dataset, and created an annotation system.
@@ -47,25 +71,6 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
    - 📚 **Internship**: Data Engineer Intern Project
    - [🔗 View Project](https://medium.com/@nipunaungkawichai_54820/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-etl-pipeline-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-microsoft-azure-end-to-end-data-engineer-project-554c3c90914c)
 
-## 🔧 Tools & Technologies
-
-### 🧠 Machine Learning & Deep Learning  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)   ![PyTorch](https://img.shields.io/badge/PyTorch-1.12.1-red)  ![Keras](https://img.shields.io/badge/Keras-2.4.3-red)  ![XGBoost](https://img.shields.io/badge/XGBoost-1.5.0-blue)
-
-### 📊 Data Visualization & BI  
-![matplotlib](https://img.shields.io/badge/matplotlib-3.4-blue)  ![seaborn](https://img.shields.io/badge/seaborn-0.11.2-green)  ![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)  
-
-### 🧹 Data Engineering & ETL  
-![Azure](https://img.shields.io/badge/Azure-blue)  ![Delta Lake](https://img.shields.io/badge/Delta_Lake-ETL-blue)  ![PySpark](https://img.shields.io/badge/PySpark-ETL-orange)  ![SQL Server](https://img.shields.io/badge/SQL_Server-Data-gray)
-
-### 🌐 Natural Language Processing & LLM  
-![Langchain](https://img.shields.io/badge/Langchain-0.0.72-purple)  ![spaCy](https://img.shields.io/badge/spaCy-3.0-lightgrey)   ![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)  ![OpenAI](https://img.shields.io/badge/OpenAI-API-lightblue)
-
-### 🧪 Experimentation & MLOps  
-![Weights & Biases](https://img.shields.io/badge/W&B-Experiment_Tracking-orange)
-
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3.9-blue)  ![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)
 
 
 
