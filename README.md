@@ -50,21 +50,13 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
 ## 🔧 Tools & Technologies
 
 ### 🧠 Machine Learning & Deep Learning  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)   ![PyTorch](https://img.shields.io/badge/PyTorch-1.12.1-red)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8-orange)  
-![Keras](https://img.shields.io/badge/Keras-2.4.3-red)  
-![XGBoost](https://img.shields.io/badge/XGBoost-1.5.0-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)   ![PyTorch](https://img.shields.io/badge/PyTorch-1.12.1-red)  ![Keras](https://img.shields.io/badge/Keras-2.4.3-red)  ![XGBoost](https://img.shields.io/badge/XGBoost-1.5.0-blue)
 
 ### 📊 Data Visualization & BI  
-![matplotlib](https://img.shields.io/badge/matplotlib-3.4-blue)  
-![seaborn](https://img.shields.io/badge/seaborn-0.11.2-green)  
-![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)  
-![Plotly](https://img.shields.io/badge/Plotly-5.3.1-lightgrey)
+![matplotlib](https://img.shields.io/badge/matplotlib-3.4-blue)  ![seaborn](https://img.shields.io/badge/seaborn-0.11.2-green)  ![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)  
 
 ### 🧹 Data Engineering & ETL  
-![Azure](https://img.shields.io/badge/Azure-blue)  
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-ETL-blue)  
-![PySpark](https://img.shields.io/badge/PySpark-ETL-orange)  
+![Azure](https://img.shields.io/badge/Azure-blue)  ![Delta Lake](https://img.shields.io/badge/Delta_Lake-ETL-blue)  ![PySpark](https://img.shields.io/badge/PySpark-ETL-orange)  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-Data-gray)
 
 ### 🌐 Natural Language Processing & LLM  
@@ -74,18 +66,12 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-lightblue)
 
 ### 🧪 Experimentation & MLOps  
-![MLflow](https://img.shields.io/badge/MLflow-1.22.0-blue)  
 ![Weights & Biases](https://img.shields.io/badge/W&B-Experiment_Tracking-orange)
 
 ### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3.9-blue)  
 ![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)
 
-### 🛠️ Other Tools  
-![Git](https://img.shields.io/badge/Git-Version_Control-black)  
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)  
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-blue)  
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
 
 
 ## 📊  Other Projects
