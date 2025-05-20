@@ -4,22 +4,23 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio!
 
 ## 🔧 Tools & Technologies
 
--  🧠 Machine Learning & Deep Learning
+-  🧠 Machine Learning & Deep Learning  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)   ![PyTorch](https://img.shields.io/badge/PyTorch-1.12.1-red)  ![Keras](https://img.shields.io/badge/Keras-2.4.3-red)  ![XGBoost](https://img.shields.io/badge/XGBoost-1.5.0-blue)
 
-- 📊 Data Visualization & BI
-![matplotlib](https://img.shields.io/badge/matplotlib-3.4-blue)  ![seaborn](https://img.shields.io/badge/seaborn-0.11.2-green)  ![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)  
+- 📊 Data Visualization & BI  
+![matplotlib](https://img.shields.io/badge/matplotlib-3.4-blue)  ![seaborn](https://img.shields.io/badge/seaborn-0.11.2-green)  ![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)  ![Tableau](https://img.shields.io/badge/Tableau-DataViz-blue)  ![Altair](https://img.shields.io/badge/Altair-Charts-lightgrey)
 
--  🧹 Data Engineering & ETL
-![Azure](https://img.shields.io/badge/Azure-blue)  ![Delta Lake](https://img.shields.io/badge/Delta_Lake-ETL-blue)  ![PySpark](https://img.shields.io/badge/PySpark-ETL-orange)  ![SQL Server](https://img.shields.io/badge/SQL_Server-Data-gray)
+- 🧹 Data Engineering & ETL  
+![Azure](https://img.shields.io/badge/Azure-blue)  ![Delta Lake](https://img.shields.io/badge/Delta_Lake-ETL-blue)  ![PySpark](https://img.shields.io/badge/PySpark-ETL-orange)  ![SQL Server](https://img.shields.io/badge/SQL_Server-Data-gray)  ![Google BigQuery](https://img.shields.io/badge/BigQuery-CloudDataWarehouse-blue)
 
--  🌐 Natural Language Processing & LLM 
-![Langchain](https://img.shields.io/badge/Langchain-0.0.72-purple)  ![spaCy](https://img.shields.io/badge/spaCy-3.0-lightgrey)   ![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)  ![OpenAI](https://img.shields.io/badge/OpenAI-API-lightblue)
+- 🌐 Natural Language Processing & LLM  
+![Langchain](https://img.shields.io/badge/Langchain-0.0.72-purple)  ![spaCy](https://img.shields.io/badge/spaCy-3.0-lightgrey)  ![nltk](https://img.shields.io/badge/nltk-NLP-blueviolet)  ![pythainlp](https://img.shields.io/badge/pythainlp-Thai_NLP-red)  ![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)  ![OpenAI](https://img.shields.io/badge/OpenAI-API-lightblue)
 
--  🧪 Experimentation & MLOps  ![Weights & Biases](https://img.shields.io/badge/W&B-Experiment_Tracking-orange)
+- 🧪 Experimentation & MLOps  
+![Weights & Biases](https://img.shields.io/badge/W&B-Experiment_Tracking-orange)
 
--  💻 Programming Languages 
-![Python](https://img.shields.io/badge/Python-3.9-blue)  ![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)
+- 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3.9-blue)  ![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)  ![R](https://img.shields.io/badge/R-Statistical_Computing-lightblue)  ![PHP](https://img.shields.io/badge/PHP-Web-blue)
 
 Below are some of the key projects I've worked on:
 
