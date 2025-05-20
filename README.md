@@ -2,13 +2,6 @@
 
 Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some of the key projects I've worked on:
 
-## 🔄 **Complaint Classifier Model for Traffy Fondue**
-   - **Description:** Developed a complaint classifier model for the Traffy Fondue platform, redesigned the dataset, and created an annotation system.
-   - **Tools/Technologies:** Fine-tuning, NLP, Python, HuggingFace
-   - **Key Achievements:**
-     - 🎯 Achieved 84% accuracy, a 20.9% improvement over logistic regression (69.5%).
-   - [🔗 View Project](https://github.com/nlp-chula/traffy-predict)
-
 ## 🔄 **Visual Analytics for Understanding CRF Model in Address Extraction**
    - **Description:** Analyzed the CRF model for address extraction using predictions from the Thai NER v2.2 dataset to understand potential biases. Designed a visual analytics system using Tableau.
    - **Tools/Technologies:** CRF, Tableau, Thai NER v2.2, Data Analysis
@@ -39,6 +32,12 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
    - 📚 **Senior-project**: LangTech
    - [🔗 View Project](https://github.com/Nippypipo/Media-Framing-Analysis-in-Fraud-Scandals)
 
+## 🔄 **Complaint Classifier Model for Traffy Fondue**
+   - **Description:** Developed a complaint classifier model for the Traffy Fondue platform, redesigned the dataset, and created an annotation system.
+   - **Tools/Technologies:** Fine-tuning, NLP, Python, HuggingFace
+   - **Key Achievements:**
+     - 🎯 Achieved 84% accuracy, a 20.9% improvement over logistic regression (69.5%).
+   - [🔗 View Project](https://github.com/nlp-chula/traffy-predict)
 
 ## 🔄 **ETL Pipeline Design & Implementation**
    - **Description:** Designed and implemented ETL pipelines for robust data engineering solutions.
@@ -50,14 +49,44 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
 
 ## 🔧 Tools & Technologies
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Azure](https://img.shields.io/badge/Azure-blue)
-![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)
-![matplotlib](https://img.shields.io/badge/matplotlib-3.4-blue)
-![seaborn](https://img.shields.io/badge/seaborn-0.11.2-green)
-![Keras](https://img.shields.io/badge/Keras-2.4.3-red)
-![Langchain](https://img.shields.io/badge/Langchain-0.0.72-purple)
+### 🧠 Machine Learning & Deep Learning  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)  
+![PyTorch](https://img.shields.io/badge/PyTorch-1.12.1-red)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8-orange)  
+![Keras](https://img.shields.io/badge/Keras-2.4.3-red)  
+![XGBoost](https://img.shields.io/badge/XGBoost-1.5.0-blue)
+
+### 📊 Data Visualization & BI  
+![matplotlib](https://img.shields.io/badge/matplotlib-3.4-blue)  
+![seaborn](https://img.shields.io/badge/seaborn-0.11.2-green)  
+![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)  
+![Plotly](https://img.shields.io/badge/Plotly-5.3.1-lightgrey)
+
+### 🧹 Data Engineering & ETL  
+![Azure](https://img.shields.io/badge/Azure-blue)  
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-ETL-blue)  
+![PySpark](https://img.shields.io/badge/PySpark-ETL-orange)  
+![SQL Server](https://img.shields.io/badge/SQL_Server-Data-gray)
+
+### 🌐 Natural Language Processing & LLM  
+![Langchain](https://img.shields.io/badge/Langchain-0.0.72-purple)  
+![spaCy](https://img.shields.io/badge/spaCy-3.0-lightgrey)  
+![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)  
+![OpenAI](https://img.shields.io/badge/OpenAI-API-lightblue)
+
+### 🧪 Experimentation & MLOps  
+![MLflow](https://img.shields.io/badge/MLflow-1.22.0-blue)  
+![Weights & Biases](https://img.shields.io/badge/W&B-Experiment_Tracking-orange)
+
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3.9-blue)  
+![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)
+
+### 🛠️ Other Tools  
+![Git](https://img.shields.io/badge/Git-Version_Control-black)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)  
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-blue)  
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
 
 
 ## 📊  Other Projects
