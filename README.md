@@ -56,21 +56,16 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! Below are some 
 ![matplotlib](https://img.shields.io/badge/matplotlib-3.4-blue)  ![seaborn](https://img.shields.io/badge/seaborn-0.11.2-green)  ![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)  
 
 ### 🧹 Data Engineering & ETL  
-![Azure](https://img.shields.io/badge/Azure-blue)  ![Delta Lake](https://img.shields.io/badge/Delta_Lake-ETL-blue)  ![PySpark](https://img.shields.io/badge/PySpark-ETL-orange)  
-![SQL Server](https://img.shields.io/badge/SQL_Server-Data-gray)
+![Azure](https://img.shields.io/badge/Azure-blue)  ![Delta Lake](https://img.shields.io/badge/Delta_Lake-ETL-blue)  ![PySpark](https://img.shields.io/badge/PySpark-ETL-orange)  ![SQL Server](https://img.shields.io/badge/SQL_Server-Data-gray)
 
 ### 🌐 Natural Language Processing & LLM  
-![Langchain](https://img.shields.io/badge/Langchain-0.0.72-purple)  
-![spaCy](https://img.shields.io/badge/spaCy-3.0-lightgrey)  
-![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)  
-![OpenAI](https://img.shields.io/badge/OpenAI-API-lightblue)
+![Langchain](https://img.shields.io/badge/Langchain-0.0.72-purple)  ![spaCy](https://img.shields.io/badge/spaCy-3.0-lightgrey)   ![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)  ![OpenAI](https://img.shields.io/badge/OpenAI-API-lightblue)
 
 ### 🧪 Experimentation & MLOps  
 ![Weights & Biases](https://img.shields.io/badge/W&B-Experiment_Tracking-orange)
 
 ### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3.9-blue)  
-![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)
+![Python](https://img.shields.io/badge/Python-3.9-blue)  ![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)
 
 
 
