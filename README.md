@@ -32,7 +32,7 @@ Below are some of the key projects I've worked on:
      - Enabled multilingual analysis for varying cases across linguistic contexts.
    - 📚 **Senior-project**: LangTech
    - [🔗 View Project](https://github.com/Nippypipo/Media-Framing-Analysis-in-Fraud-Scandals)
-   - 
+     
 
 ## 🔄 **Visual Analytics for Understanding CRF Model in Address Extraction**
    - **Description:** Analyzed the CRF model for address extraction using predictions from the Thai NER v2.2 dataset to understand potential biases. Designed a visual analytics system using Tableau.
