@@ -1,6 +1,8 @@
 # Data Science Portfolio 👨‍💻
 
-Hello, my name is Nipun. Welcome to my Data Scientist portfolio! 
+Hello, my name is Nipun. Welcome to my Data Scientist portfolio! My experiences span across roles in data consulting, data engineering, data analysis, and data science through internships and academic projects. These include customer analytics, building predictive models, NLP systems, and research-driven LLM applications.
+
+Currently, I’m most passionate about applying AI/LLM solutions to real-world business problems, especially in areas like predictive modeling, customer analytics, and LLM applications.
 
 ## 🔧 Tools & Technologies
 
