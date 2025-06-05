@@ -5,25 +5,14 @@ Hello, my name is Nipun. Welcome to my Data Scientist portfolio! My experiences 
 Currently, I’m most passionate about applying AI/LLM solutions to real-world business problems, especially in areas like predictive modeling, customer analytics, and LLM applications.
 
 ## 🔧 Tools & Technologies
-
-
-- 🧠 Machine Learning & Deep Learning  
-Scikit-learn, Keras, PyTorch, XGBoost
-
-- 📊 Data Visualization & Business Intelligence  
-Matplotlib, Seaborn, Power BI, Tableau, Altair
-
-- 🧹 Data Engineering & ETL  
-Azure, Delta Lake, PySpark, SQL Server, Google BigQuery
-
-- 🌐 Natural Language Processing & LLM  
-HuggingFace Transformers, OpenAI API, Langchain, PyThaiNLP, NLTK, spaCy 
-
-- 🧪 Experimentation & MLOps  
-Weights & Biases (W&B)
-
-- 💻 Programming Languages  
-Python, SQL, R, PHP
+- **Machine Learning 🧠:** Regression, Classification, Clustering (Scikit-learn, XGBoost)
+- **Deep Learning 🤖:** DAN, RNN, CNN (TensorFlow/Keras, PyTorch)
+- **Natural Language Processing & LLMs 🌐:** Fine-tuning, Prompt Engineering (Hugging Face Transformer, OpenAI API, PyThaiNLP, LangChain)
+- **Cloud Platform ☁️:** Google Cloud Platform (Data Analysis: GoogleBigQuery), Microsoft Azure Service (Data Engineering: Data Factory, Databricks, Synapse)
+- **Programming 👨🏻‍💻:** Python, PySpark, SQL, R, PHP
+- **Data Analysis 📈:** Pandas, Excel, Google Sheet
+- **Visualization & BI 📊:** Power BI, Tableau, Matplotlib, Seaborn, Altair
+- **Experimentation & MLOps 🧪:**  Weights & Biases (W&B)
 
 Below are some of the key projects I've worked on:
 
